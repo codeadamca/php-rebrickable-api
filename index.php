@@ -9,10 +9,10 @@ $key = '';
 // THe API will be used for additional data
 
 $connect = mysqli_connect(
-    'localhost',
-    'root',
-    'root',
-    'lego'
+    '<DB_HOST>',
+    '<DB_USER>',
+    '<DB_PASSWORD>',
+    '<DB_DATABASE>'
 );
 
 function list_themes($parent_id = '')
