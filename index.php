@@ -3,7 +3,7 @@
 // Register for a Rebrickable account and palce your API key here
 // https://rebrickable.com/api/
 
-$key = '';
+$key = '<REBRICKABLE_API_KEY>';
 
 // The CSV files have been imported into the database
 // THe API will be used for additional data
