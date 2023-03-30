@@ -2,7 +2,9 @@
 
 A basic example of using PHP with the Rebrickable API. 
 
-## Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) 
 * [Rebrickable API](https://rebrickable.com/api/v3/docs/)
