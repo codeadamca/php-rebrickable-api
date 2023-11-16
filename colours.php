@@ -1,8 +1,9 @@
 <?php
 
-include('includes/connect.php');
-include('includes/config.php');
-include('includes/functions.php');
+// Register for a Rebrickable account and palce your API key here
+// https://rebrickable.com/api/
+
+define('REBRICKABLE_API_KEY', <REBRICKABLE_API_KEY>);
 
 $url = 'https://rebrickable.com/api/v3/lego/colors/';
 
